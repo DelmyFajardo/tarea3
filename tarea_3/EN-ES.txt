@@ -1,0 +1,13 @@
+hola= hi
+perro=dog
+gato=cat
+verde=gree
+naranja=orange
+purpura=purple´
+azul=blue
+cafe=coffe
+que=what
+y=and
+boton=button
+yo=im
+ 
